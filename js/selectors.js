@@ -1,7 +1,7 @@
 // declare your functions here...
-function paragraphSelector(){
+$(document).ready(function paragraphSelector(){
   $('p')
-}
+});
 
 $('img:last')
 $('#baby-ninja')
