@@ -1,5 +1,5 @@
 // declare your functions here...
-$(paragraphSelector(){$('p')});
+paragraphSelector(){ return $('p')};
 $('img:last')
 $('#baby-ninja')
 $('.pics')
